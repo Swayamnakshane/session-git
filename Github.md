@@ -107,7 +107,7 @@ git push origin feature-branch
 
 ```bash
 # Delete locally
-git branch -d feature-branch
+git branch -D feature-branch
 # Delete on remote
 git push origin --delete feature-branch
 ```
